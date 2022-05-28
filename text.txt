@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-v1ot
-=======
-versao 2
->>>>>>> b
+versao2ot
